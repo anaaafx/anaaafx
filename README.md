@@ -2,7 +2,7 @@
 
 ## Hi my name is Ana Flávia Nascimento! 
 
-I'm a Quality assurance Analyst with experience in Test Design, Web Testing, API Testing (Postman), SQL/Database, Agile SCRUM methodology, and Bug Tracking (JIRA), I apply a results-oriented approach to every project. I have knowledge of Javascript and Python, and currently, I am studying automation with Selenium. I'm also open to working with new technologies to improve our job!
+I'm a Quality Assurance Analyst with experience in Test Design, Web Testing, API Testing (Postman), SQL/Database, Agile SCRUM methodology, and Bug Tracking (JIRA), I apply a results-oriented approach to every project. I have knowledge of Javascript and Python, and currently, I am studying automation with Selenium. I'm also open to working with new technologies to improve our job!
 
 
 📧 Contact: Feel free to reach out to me via email at ✉️ anaaa.fxx@gmail.com or by 📞 +551391899991.
