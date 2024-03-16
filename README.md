@@ -1,16 +1,51 @@
-### Hi there 👋
+## Hi my name is Ana Flávia Nascimento! 
+I'm a Quality assurance Analyst with experience in Test Design, Web Testing, API Testing (Postman), SQL/Database, Agile SCRUM methodology, and Bug Tracking (JIRA), I apply a results-oriented approach to every project. I have knowledge of Javascript and Python, and currently, I am studying automation with Selenium. I'm also open to working with new technologies to improve our job!
 
-<!--
-**anaaafx/anaaafx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 Contact: Feel free to reach out to me via email at ✉️ anaaa.fxx@gmail.com or by 📞 +551391899991.
+ 
+## Social Midia 
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaflávianascimento/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![FULANO'S GitHub stats](https://github-readme-stats.vercel.app/api?username=anaaafx&show_icons=true&theme=transparent)
+
+## Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaaafx&langs_count=8&theme=dark)
+
+## Technologies and Tools
+
+<div align="center">
+
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+
+<img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&log" />
+
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
+
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" />
+
+<br>
+
+</div>
+
+
+## SKILL
+- Creativity
+- Collaborative
+- Adaptability
+- Positive Mental Attitude
+- Continuous Learning
+
+## HARD SKILL
+- Web application testing
+- API testing
+- Jira
+- Swagger
+- Postman
+- Agile
+- CLI
+- SQL basics
